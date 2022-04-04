@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Semester_Project</string>
+    <string name="CustomerName">Customer Name</string>
+    <string name="CutomerAge">Age</string>
+    <string name="ActiveCus">Active Customers</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="view_data">View Data</string>
+    <string name="add_user">Add User</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
